@@ -47,7 +47,6 @@ try {
     <h2 class="mb-4">
         <i class="bi bi-speedometer2 me-2"></i>
         Dashboard Overview
-        <small class="text-muted">- Your HR snapshot</small>
     </h2>
     
     <!-- Top row with stat cards -->

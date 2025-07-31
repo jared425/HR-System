@@ -229,7 +229,6 @@ $employees = $stmt->fetchAll(PDO::FETCH_ASSOC); // fetches all the data with the
     <h2 class="mb-4">
         <i class="bi bi-people-fill me-2"></i>
         Employee Management
-        <small class="text-muted">- Company Staff Directory</small>
     </h2>
 
     <!-- Success/Error Messages -->
